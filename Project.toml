@@ -1,0 +1,4 @@
+name = "Hyper"
+uuid = "9f505276-634a-49d7-9108-936a79bfe1b7"
+authors = ["tlienart <tlienart@me.com>"]
+version = "0.1.0"
